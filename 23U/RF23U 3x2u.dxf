@@ -261,7 +261,7 @@ $DIMBLK2
   9
 $DIMSTYLE
   2
-º£Áú_1£º1
+æµ·é¾™_1ï¼š1
   9
 $DIMCLRD
  70
@@ -333,7 +333,7 @@ $DIMALTTD
   9
 $DIMTXSTY
   7
-³ß´ç±ê×¢
+å°ºå¯¸æ ‡æ³¨
   9
 $DIMAUNIT
  70
@@ -1651,7 +1651,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-Í¼²ã1
+å›¾å±‚1
  70
      0
  62
@@ -1707,7 +1707,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-Z¡î09 ¸¨ÖúÏß
+Zâ˜†09 è¾…åŠ©çº¿
  70
      0
  62
@@ -1729,7 +1729,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-P¡ï20 Æ½Ãæ³ß´ç
+Pâ˜…20 å¹³é¢å°ºå¯¸
  70
      0
  62
@@ -1751,7 +1751,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-ÎÄ×Ö
+æ–‡å­—
  70
      0
  62
@@ -1773,7 +1773,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-Xline¡¾¸¨ÖúÏß¡¿
+Xlineã€è¾…åŠ©çº¿ã€‘
  70
      0
  62
@@ -1837,7 +1837,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-³ß´ç±ê×¢
+å°ºå¯¸æ ‡æ³¨
  70
      0
  40
@@ -2265,7 +2265,7 @@ AcDbSymbolTableRecord
 100
 AcDbDimStyleTableRecord
   2
-×¿ÒÕ1£º100
+å“è‰º1ï¼š100
  70
      0
  40
@@ -2357,7 +2357,7 @@ AcDbSymbolTableRecord
 100
 AcDbDimStyleTableRecord
   2
-×¿ÒÕ1£º1
+å“è‰º1ï¼š1
  70
      0
  41
@@ -2459,7 +2459,7 @@ AcDbSymbolTableRecord
 100
 AcDbDimStyleTableRecord
   2
-º£Áú_1£º300
+æµ·é¾™_1ï¼š300
  70
      0
  40
@@ -2551,7 +2551,7 @@ AcDbSymbolTableRecord
 100
 AcDbDimStyleTableRecord
   2
-º£Áú_1£º1
+æµ·é¾™_1ï¼š1
  70
      0
  41
@@ -3107,7 +3107,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-¼ıÍ·ÎÄ¼ş
+ç®­å¤´æ–‡ä»¶
 340
 0
 1001
@@ -4697,7 +4697,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-¼ıÍ·ÎÄ¼ş
+ç®­å¤´æ–‡ä»¶
  70
      0
  10
@@ -4707,7 +4707,7 @@ AcDbBlockBegin
  30
 0.0
   3
-¼ıÍ·ÎÄ¼ş
+ç®­å¤´æ–‡ä»¶
   1
 
   0
@@ -8725,7 +8725,7 @@ vlo_VL
  92
         0
 300
-(("HL_Config" . "×¿ÒÕÅäÖÃ6.0"))
+(("HL_Config" . "å“è‰ºé…ç½®6.0"))
 1001
 AcadCodePageInfo
 1000
@@ -14153,7 +14153,7 @@ vlo_VL
  92
         0
 300
-"º£ÁúÅäÖÃ(CCD)"
+"æµ·é¾™é…ç½®(CCD)"
 1001
 AcadCodePageInfo
 1000
